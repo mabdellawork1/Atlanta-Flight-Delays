@@ -1,0 +1,13 @@
+Month,Month_Name,flights,pct_dep_delayed,median_dep_delay
+1,January,52522,21.0,-1.0
+2,February,47905,15.0,-2.0
+3,March,55906,22.5,-1.0
+4,April,54170,21.5,-1.0
+5,May,57209,17.3,-1.0
+6,June,56421,28.5,0.0
+7,July,58769,28.1,0.0
+8,August,57300,23.7,-1.0
+9,September,56456,14.6,-2.0
+10,October,58371,12.2,-2.0
+11,November,54879,10.5,-2.0
+12,December,55968,13.7,-2.0

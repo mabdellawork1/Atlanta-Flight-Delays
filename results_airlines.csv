@@ -1,0 +1,13 @@
+Airline,flights,pct_of_atl_departures,pct_dep_delayed,median_dep_delay
+Delta Air Lines Inc,217802,65.5,19.0,-1.0
+Southwest Airlines Co.,36415,11.0,25.6,2.0
+Endeavor Air,20434,6.1,11.5,-4.0
+Spirit Air Lines,13440,4.0,31.2,2.0
+Frontier Airlines Inc.,10226,3.1,42.3,8.0
+Skywest Airlines Inc.,9672,2.9,17.9,-2.0
+American Airlines Inc.,8485,2.6,19.1,-4.0
+United Air Lines Inc.,7948,2.4,22.3,-1.0
+JetBlue Airways,3497,1.1,34.5,2.0
+Republic Airways,2162,0.7,10.8,-5.0
+PSA Airlines,1224,0.4,17.8,-6.0
+Alaska Airlines Inc.,1136,0.3,18.8,-3.0

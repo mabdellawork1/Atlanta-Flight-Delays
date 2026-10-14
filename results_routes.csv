@@ -1,0 +1,11 @@
+Arr_Airport,Arr_CityName,flights,pct_dep_delayed
+JFK,"New York, NY",3736,31.7
+FLL,"Fort Lauderdale, FL",7900,29.8
+LAS,"Las Vegas, NV",5080,28.4
+MIA,"Miami, FL",6711,27.9
+SJU,"San Juan, PR",1901,27.6
+MCO,"Orlando, FL",8960,27.2
+BWI,"Baltimore, MD",6379,26.5
+PHL,"Philadelphia, PA",5767,26.1
+SFO,"San Francisco, CA",3241,25.9
+TPA,"Tampa, FL",6615,25.8

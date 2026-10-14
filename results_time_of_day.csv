@@ -1,0 +1,5 @@
+DepTime_label,flights,pct_dep_delayed,pct_late_aircraft_minutes
+Morning,117917,14.0,19.8
+Afternoon,109140,21.1,26.7
+Evening,104052,27.7,34.5
+Night,1826,15.2,17.4
