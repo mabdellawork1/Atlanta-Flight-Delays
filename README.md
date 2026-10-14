@@ -115,4 +115,4 @@ Morning flights start fresh after aircraft sit overnight. As the day goes on, ea
 
 ---
 
-**Author:** Mohamed · MIS & Economics, University of Georgia (Terry College of Business)
+**Author:** Mohamed Abdella · MIS , University of Georgia (Terry College of Business)
